@@ -1,2 +1,3 @@
 database_connect.config
 bin/
+*.s?ss

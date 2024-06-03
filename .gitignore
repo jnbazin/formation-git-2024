@@ -1,3 +1,5 @@
 database_connect.config
 bin/
-*.s?ss
+*.sass
+*.scss
+!bootstrap_icon.scss

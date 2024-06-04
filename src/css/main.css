@@ -1,9 +1,14 @@
-.blue }
-  color: blue;
+.blue {
+    color: blue;
 }
+
 .h1 {
-marging="1"
+    marging="1"
 }
-.red }
-  color: red;
+
+.red {
+    color: red;
+}
+.yellow {
+    color: yellow;
 }
